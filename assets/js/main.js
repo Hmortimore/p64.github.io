@@ -49,6 +49,13 @@
 							'images/photo_11.jpg': 'center',
 							'images/photo_12.jpg': 'center',
 							'images/photo_13.jpg': 'center',
+							'images/photo_14.jpg': 'center',
+							'images/photo_15.jpg': 'center',
+							'images/photo_16.jpg': 'center',
+							'images/photo_17.jpg': 'center',
+							'images/photo_18.jpg': 'center',
+							'images/photo_19.jpg': 'center',
+							'images/photo_20.jpg': 'center',
 						},
 
 					// Delay.
